@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phalcon/ide-stubs": "*",
+        "doctrine/orm": "*"
+    }
+}
