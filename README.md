@@ -9,11 +9,11 @@ You can use the Phalcon as before, but now, you have code-based migrations!
 
 Run these commands in the root directory of your project:
 
-```bash
+```
 php composer.phar self-update
 ```
 
-```bash
+```
 php composer.phar update
 ```
 
@@ -39,7 +39,7 @@ $dbParams = array(
 
 Run this command in the root directory of your project:
 
-```php
+```
 php doctrineConsole.php orm:schema-tool:update --force
 ```
 
